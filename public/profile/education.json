@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Aug 2023 - May 2027",
+            "cardTitle": "Computer Science & Economics Double Major",
+            "cardSubtitle":"Allegheny College PA",
+            "cardDetailedText": "GPA - 4.0",
+            "icon" : {
+                "src": ""
+            }
+        }
+    ]
+}

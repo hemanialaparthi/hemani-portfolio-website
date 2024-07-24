@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/hemanialaparthi/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/hemanialaparthi"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:hemanialaparthi@gmail.com"
+        }
+    ]
+}
