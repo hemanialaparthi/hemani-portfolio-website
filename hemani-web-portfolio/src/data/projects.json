@@ -10,7 +10,7 @@
     {
         "title": "Recipe Generator + Calorie Counter",
         "imageSrc": "projects/food.png",
-        "description": "With the use of APIs, this project helps college students find easy recipes with minimal effort and calculates calories in the recipe. (Currently in progress.)",
+        "description": "Utilizing APIs, this project offers college students easy recipes and automatic calorie calculations, making meal planning effortless.",
         "skills": ["Python", "APIs", "React"],
         "demo": "",
         "source": "https://github.com/hemanialaparthi/RecipeGenerator"
