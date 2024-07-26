@@ -19,6 +19,7 @@ export const Skills = () => {
                 })
                 }</div>
             <ul className={styles.education}>
+            <h2 className={styles.title}>Education</h2>
                 {
                     education.map((educationItem, id) => {
                         return <li key={id} className={styles.educationItem}>
