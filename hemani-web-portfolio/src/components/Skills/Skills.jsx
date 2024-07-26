@@ -5,8 +5,8 @@ import education from "../../data/education.json"
 import styles from "./Skills.module.css"
 
 export const Skills = () => {
-    return <section className={styles.container} id="Skills">
-        <h2 className={styles.title}>Education</h2>
+    return <section className={styles.container} id="skills">
+        <h2 className={styles.title}>Skills</h2>
         <div className={styles.content}>
             <div className={styles.skills}>{
                 skills.map((skill, id) => {
