@@ -1,0 +1,12 @@
+[
+    {
+        "school": "Allegheny College",
+        "area": "PA",
+        "startDate": "May, 2022",
+        "endDate": "May, 2027",
+        "major": "Computer Science & Economics",
+        "extracurs": ["Technical Leader", "South Asian Student Society (SASS)", "International Club (IC)", "Honor Committee", "Resident Advisor (RA)"],
+        "imageSrc": "school/aclogo.png"
+    }
+
+]
