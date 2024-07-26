@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Flappy Bird + Mod",
+        "imageSrc": "projects/flappybird.png",
+        "description": "A fun flappy bird game clone but with an addition of a mod which involves potions (like Minecraft).",
+        "skills": ["Python", "Pygame"],
+        "demo": "",
+        "source": "https://github.com/hemanialaparthi/FlappyBirdMod"
+    },
+    {
+        "title": "Recipe Generator + Calorie Counter",
+        "imageSrc": "projects/food.png",
+        "description": "With the use of APIs, this project helps college students find easy recipes with minimal effort and calculates calories in the recipe. (Currently in progress.)",
+        "skills": ["Python", "APIs", "React"],
+        "demo": "",
+        "source": "https://github.com/hemanialaparthi/RecipeGenerator"
+    }
+]
