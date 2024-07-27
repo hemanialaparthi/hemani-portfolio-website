@@ -3,7 +3,7 @@
 .container {
   color: var(--color-text);
   margin-top: 120px;
-  background-color: var(--color-secondary);
+  background-color: var(--color-dark); /* Darker pastel pink background */
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -48,7 +48,7 @@
 }
 
 .link a:hover {
-  text-decoration: underline; /* Underline links on hover */
+  text-decoration: underline;
 }
 
 @media screen and (max-width: 830px) {
@@ -72,32 +72,32 @@
   .container {
     flex-direction: column;
     gap: 23px;
-    padding: 30px 5%; /* Adjust padding for smaller screens */
+    padding: 30px 5%;
   }
 
   .text {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center; /* Center text on small screens */
+    text-align: center;
   }
 
   .text h2 {
-    font-size: 40px; /* Reduce font size for smaller screens */
+    font-size: 40px;
   }
 
   .text p {
-    font-size: 20px; /* Reduce font size for smaller screens */
-    padding-right: 0; /* Remove padding */
-    padding-left: 0; /* Remove padding */
+    font-size: 20px;
+    padding-right: 0;
+    padding-left: 0;
   }
 
   .links {
     align-items: center;
-    gap: 15px; /* Reduce gap between links */
+    gap: 15px;
   }
 
   .link a {
-    font-size: 20px; /* Reduce font size for links */
+    font-size: 20px;
   }
 }

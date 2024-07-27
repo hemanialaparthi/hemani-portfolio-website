@@ -1,9 +1,11 @@
 :root {
-    --color-text: #fff;
-    --color-primary: #576cbc;
-    --color-secondary: #193768;
-    --color-dark: #0b2447;
-    --color-bg: #04152d;
+    --color-text: #FFFFFF; /* White text */
+    --color-primary: #282c34; /* Dark primary color (could be used for background or prominent sections) */
+    --color-secondary: #1c1f24; /* Dark secondary color (could be used for less prominent sections) */
+    --color-dark: #0d1117;
+    --color-bg: #0c0f15;
+    --color-button-bg: #ff6ec7; /* Pink button background */
+    --color-button-text: #FFFFFF; /* White text for buttons */
 
     /* fonts */
     --fonts-roboto: "Roboto";
