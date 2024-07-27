@@ -62,10 +62,13 @@
 .aboutItem h3 {
     font-size: 25px;
     font-weight: 600;
+    padding-left: 5%;
+    padding-bottom: 5%;
 }
 
 .aboutItem p {
     font-size: 25px;
+    padding-left: 5%;
 }
 
 @media screen and (max-width: 830px) {
