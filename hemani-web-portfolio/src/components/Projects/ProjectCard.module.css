@@ -4,8 +4,8 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, #ff85c2 0%, #7a1f4f 100%); /* Pink gradient background */
-  box-shadow: 0 16px 14px 0 #2a102d; /* Darker shadow for contrast */
+  background: linear-gradient(180deg, #e67bb5 0%, #631a41 100%);
+  box-shadow: 0 16px 14px 0 #2a102d;
   padding: 18px 24px;
   max-width: 345px;
 }
@@ -17,14 +17,14 @@
 .title {
   font-size: 25px;
   font-weight: 700;
-  color: var(--color-text); /* Ensure text is readable */
+  color: var(--color-text);
 }
 
 .description {
   margin-top: 6px;
   font-size: 25px;
   font-weight: 400;
-  color: var(--color-text); /* Ensure text is readable */
+  color: var(--color-text);
 }
 
 .skills {
@@ -41,9 +41,9 @@
   font-size: 25px;
   font-weight: 400;
   border-radius: 100px;
-  background: #7a1f4f; /* Dark pink for skills */
+  background: #631a41;
   padding: 2px 22px;
-  color: var(--color-text); /* Ensure text is readable */
+  color: var(--color-text);
 }
 
 .links {
@@ -59,11 +59,11 @@
   font-size: 30px;
   font-weight: 600;
   border-radius: 100px;
-  background: #ff69b4; /* Bright pink for links */
+  background: #e065a1;
   padding: 1px 22px;
   transition: background-color 0.3s ease;
 }
 
 .link:hover {
-  background: #ff85c2; /* Lighter pink on hover */
+  background: #ff85c2;
 }
