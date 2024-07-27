@@ -47,6 +47,10 @@
   letter-spacing: 1.5px;
 }
 
+.link a:hover {
+  text-decoration: underline; /* Underline links on hover */
+}
+
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
@@ -61,5 +65,39 @@
 
   .links {
     align-items: center;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 23px;
+    padding: 30px 5%; /* Adjust padding for smaller screens */
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; /* Center text on small screens */
+  }
+
+  .text h2 {
+    font-size: 40px; /* Reduce font size for smaller screens */
+  }
+
+  .text p {
+    font-size: 20px; /* Reduce font size for smaller screens */
+    padding-right: 0; /* Remove padding */
+    padding-left: 0; /* Remove padding */
+  }
+
+  .links {
+    align-items: center;
+    gap: 15px; /* Reduce gap between links */
+  }
+
+  .link a {
+    font-size: 20px; /* Reduce font size for links */
   }
 }
