@@ -37,6 +37,10 @@
     text-decoration: none;
 }
 
+.menuItems a:hover {
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 830px) {
     .navbar {
         flex-direction: column;
