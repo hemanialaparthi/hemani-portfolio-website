@@ -72,7 +72,7 @@
   .container {
     flex-direction: column;
     gap: 23px;
-    padding: 30px 5%;
+    padding: 30px 10%;
   }
 
   .text {
