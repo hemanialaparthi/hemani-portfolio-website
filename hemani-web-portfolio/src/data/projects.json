@@ -14,5 +14,13 @@
         "skills": ["Python", "APIs", "React"],
         "demo": "",
         "source": "https://github.com/hemanialaparthi/RecipeGenerator"
+    },
+    {
+        "title": "AI Health Care Bot",
+        "imageSrc": "projects/bot.jpg",
+        "description": "With the help of APIs, this project gives a quick diagnosis of the disease based on the symptoms entered by the user and also provides the nearest hospital information and contact details.",
+        "skills": ["Python", "OpenRouter API", "React"],
+        "demo": "",
+        "source": "https://github.com/hemanialaparthi/ai-healthcare-bot"
     }
 ]
